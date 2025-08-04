@@ -1,0 +1,17 @@
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\Bao3001\source\repos\Bao_SE1908.NET_A02\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
